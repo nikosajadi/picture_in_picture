@@ -16,7 +16,7 @@ html {
  }
  
   .button-continer {
-    border: 2px solid black;
+    border: 2px solid rgb(219, 125, 125);
     padding: 10px; 
     border-radius: 7px;
     /* 3D */
